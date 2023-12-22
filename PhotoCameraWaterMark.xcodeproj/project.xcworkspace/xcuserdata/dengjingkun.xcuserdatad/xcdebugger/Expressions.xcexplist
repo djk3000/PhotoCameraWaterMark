@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #2 in closure #1 in ContentView.body.getter:ContentView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhotoControl.setPhotoWaterMark(originalImage:):PhotoControl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "originalImage.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PhotoControl.getPhotoInfo(photoAsset:):PhotoControl.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in ContentView.body.getter:ContentView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UIImage.getExifData():PhotoControl.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhotoControl.getPhotoInfo(photoAsset:):PhotoControl.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
